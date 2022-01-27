@@ -1,4 +1,4 @@
-- Hi, I’m @KarlangasHotz : ![photowithiguana](./Desktop/urbanjungleedited.jpg)
+- Hi, I’m @KarlangasHotz : ![photowithiguana](https://github.com/KarlangasHotz/KarlangasHotz/blob/main/urbanjungleedited.jpg)
  
 - Age? 25 years old 
 
@@ -23,7 +23,7 @@
        
    <em><h4>[LinkedIn](https://www.linkedin.com/in/karl-hotz-23782b132/)</h4></em>
    
- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+ 
      
 
 <!---

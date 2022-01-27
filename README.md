@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KarlangasHotz
-- 👀 I’m interested in Front End Web Development and eventually Full Stack
+- 👀 I’m interested in <strong>Front End Web Development</strong> and eventually Full Stack
 - 🌱 I’m currently following The Odin Project 
 - 💞️ I’m looking to collaborate on business websites
 - 📍  I live in Zürich, Switzerland

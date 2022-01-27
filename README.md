@@ -19,9 +19,9 @@
  
 - 📫 How to reach me : 
    
-   <em><h4>[Email](mailto:karlhotzmolina@hotmail.com)</h4></em>
+   <em><h3>[Email📭](mailto:karlhotzmolina@hotmail.com)</h4></em>
        
-   <em><h4>[LinkedIn](https://www.linkedin.com/in/karl-hotz-23782b132/)</h4></em>
+   <em><h3>[LinkedIn🧙‍♂️](https://www.linkedin.com/in/karl-hotz-23782b132/)</h4></em>
    
  
      

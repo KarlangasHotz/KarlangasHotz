@@ -4,13 +4,13 @@
 
 - Whereabouts am I from you ask? Chile 🇨🇱  & Switzerland 🇨🇭
  
-- 👀 I’m interested in <strong>Front End Web Development</strong> and eventually Full Stack.
+- 👀 Interested in <strong>Front End Web Development</strong> and eventually Full Stack.
  
-- 🌱 I’m currently following The Odin Project 
+- 🌱 Currently following The Odin Project 
  
 - 💞️ I’m looking to collaborate on business websites and looking for an internship in Front End
 
-- 🎧 Adore [this playlist](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic)
+- 🎧 Adore [this](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic) playlist
    && Reggaeton   
  
 - 👨‍🎓 Improving at writing cleaner code && better comments 

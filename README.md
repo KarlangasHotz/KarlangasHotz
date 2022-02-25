@@ -13,7 +13,7 @@
 - 🎧 Adore [this](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic) playlist
    && Reggaeton   
  
-- 👨‍🎓 Improving at writing cleaner code && better comments 
+- 👨‍🎓 Improving at using React, writing cleaner code & making better comments 
  
 - 📍  I live in Zürich, Switzerland
  

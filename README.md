@@ -1,29 +1,29 @@
-- Hi, I’m @KarlangasHotz : ![photowithiguana](./Desktop/urbanjungleedited.jpg)
+- Hi, I’m @KarlangasHotz : ![photowithiguana](https://github.com/KarlangasHotz/KarlangasHotz/blob/main/urbanjungleedited.jpg)
  
 - Age? 25 years old 
 
 - Whereabouts am I from you ask? Chile 🇨🇱  & Switzerland 🇨🇭
  
-- 👀 I’m interested in <strong>Front End Web Development</strong> and eventually Full Stack.
+- 👀 Interested in <strong>Front End Web Development</strong> and eventually Full Stack.
  
-- 🌱 I’m currently following The Odin Project 
+- 🌱 Currently following The Odin Project 
  
 - 💞️ I’m looking to collaborate on business websites and looking for an internship in Front End
 
-- 🎧 Adore [this playlist](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic)
+- 🎧 Adore [this](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic) playlist
    && Reggaeton   
  
-- 👨‍🎓 Improving at writing cleaner code && better comments 
+- 👨‍🎓 Improving at using React, writing cleaner code & making better comments 
  
 - 📍  I live in Zürich, Switzerland
  
 - 📫 How to reach me : 
    
-   <em><h4>[Email](mailto:karlhotzmolina@hotmail.com)</h4></em>
+   <em><h3>[Email📭](mailto:karlhotzmolina@hotmail.com)</h4></em>
        
-   <em><h4>[LinkedIn](https://www.linkedin.com/in/karl-hotz-23782b132/)</h4></em>
+   <em><h3>[LinkedIn🧙‍♂️](https://www.linkedin.com/in/karl-hotz-23782b132/)</h4></em>
    
- ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+ 
      
 
 <!---

@@ -9,16 +9,11 @@
 
 - Whereabouts am I from you ask? Chile 🇨🇱  & Switzerland 🇨🇭
  
-- 👀 Interested in <strong>Front End Web Development</strong> and eventually Full Stack.
+- 👀 Interested in <strong>Data Science / Analysis</strong> and studying Applied Computational Life Sciences!
  
-- 🌱 Currently following The Odin Project 
+- 🌱 Programming / Data / Biology
  
-- 💞️ I’m looking to collaborate on business websites and looking for an internship in Front End
-
-- 🎧 Adore [this](https://www.youtube.com/watch?v=_WYEzaodn6c&ab_channel=HeartfulCafeMusic) playlist
-   && Reggaeton   
- 
-- 👨‍🎓 Improving at using React, writing cleaner code & making better comments 
+- 💞️ I’m looking to collaborate on business websites and looking for an internship in Data Science/Analysis/Engineering
  
 - 📍  I live in Zürich, Switzerland
  

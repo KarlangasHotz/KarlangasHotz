@@ -12,9 +12,7 @@
 - 👀 Interested in <strong>Data Science / Analysis</strong> and studying Applied Computational Life Sciences!
  
 - 🌱 Programming / Data / Biology
- 
-- 💞️ I’m looking to collaborate on business websites and looking for an internship in Data Science/Analysis/Engineering
- 
+  
 - 📍  I live in Zürich, Switzerland
  
 - 📫 How to reach me : 

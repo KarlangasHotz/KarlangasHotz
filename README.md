@@ -9,7 +9,7 @@
 
 - Whereabouts am I from you ask? Chile 🇨🇱  & Switzerland 🇨🇭
  
-- 👀 Interested in <strong>Data Science / Analysis</strong> and studying Applied Computational Life Sciences!
+- 👀 Interested in <strong>Data Science / Analysis</strong> and <strong>Biology</strong>
  
 - 🌱 Programming / Data / Biology
   

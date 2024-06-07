@@ -16,7 +16,7 @@ jobs:
         id: update-readme
         run: |
           # Set your birthdate
-          BIRTHDATE="1996-07-01"
+          BIRTHDATE="1996-07-01"  # Your actual birthdate
 
           # Calculate age
           TODAY=$(date +%Y-%m-%d)
@@ -31,5 +31,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase
           git add README.md
           git commit -m "Update age in README"
+          git push

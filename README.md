@@ -4,7 +4,7 @@
 
  ![photowithiguana](https://github.com/KarlangasHotz/KarlangasHotz/blob/main/urbanjungleedited.jpg)
  
-- Age? [AGE] years old 
+- Age? 0 years old 
 
 - Whereabouts am I from you ask? Chile 🇨🇱  & Switzerland 🇨🇭
  

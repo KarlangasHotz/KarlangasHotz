@@ -34,39 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-name: Update Age in README
 
-on:
-  schedule:
-    - cron: '0 0 1 7 *'  # Runs at 00:00 on July 1st each year
-  workflow_dispatch:
-
-jobs:
-  update-age:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
-      - name: Calculate Age and Update README
-        id: update-readme
-        run: |
-          # Set your birthdate
-          BIRTHDATE="1996-07-01"
-
-          # Calculate age
-          TODAY=$(date +%Y-%m-%d)
-          BIRTHDATE_YEAR=$(date -d $BIRTHDATE +%Y)
-          CURRENT_YEAR=$(date -d $TODAY +%Y)
-          AGE=$((CURRENT_YEAR - BIRTHDATE_YEAR))
-
-          # Update README
-          sed -i "s/[0-9]\{1,3\} years old/$AGE years old/" README.md
-
-      - name: Commit Changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Update age in README"
           git push
